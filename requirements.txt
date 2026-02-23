@@ -1,10 +1,7 @@
 fastapi
 uvicorn
-tensorflow==2.13.0
+tensorflow-cpu==2.13.0
 numpy
 pandas
 requests
 joblib
-streamlit
-streamlit-autorefresh
-plotly
