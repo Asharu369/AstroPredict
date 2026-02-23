@@ -1,6 +1,6 @@
 fastapi==0.103.2
 uvicorn
-tensorflow-cpu==2.15.0
+tensorflow-cpu==2.20.0
 numpy
 pandas
 requests
