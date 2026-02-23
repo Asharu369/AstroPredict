@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+pandas
+requests
+joblib
+streamlit
+streamlit-autorefresh
+plotly
