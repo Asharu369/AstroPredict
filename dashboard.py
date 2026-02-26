@@ -323,12 +323,12 @@ with explain_col1:
         </p>
         <ul style="line-height: 1.8; color: #94a3b8;">
             <li>✅ A flare <strong>may occur</strong> anytime in the next 24 hours</li>
-            <li>❌ We <strong>cannot</strong> predict the exact minute</li>
+            <li>❌ The system <strong>does not</strong>exact timing of occurrence.</li>
             <li>✅ Higher probability = Higher likelihood</li>
             <li>✅ Think: "60% chance of rain today"</li>
         </ul>
         <p style="margin-top: 10px; font-style: italic; color: #94a3b8;">
-        Just like weather forecasting, we predict the <em>likelihood</em> over a period, 
+        Just like weather forecasting, The system predict the <em>likelihood</em> over a period, 
         not the <em>exact moment</em> of occurrence.
         </p>
     </div>
