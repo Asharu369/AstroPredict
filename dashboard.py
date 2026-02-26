@@ -323,7 +323,7 @@ with explain_col1:
         </p>
         <ul style="line-height: 1.8; color: #94a3b8;">
             <li>✅ A flare <strong>may occur</strong> anytime in the next 24 hours</li>
-            <li>❌ The system <strong>does not</strong>exact timing of occurrence.</li>
+            <li>❌ The system <strong>does not</strong> predict the exact timing of occurrence.</li>
             <li>✅ Higher probability = Higher likelihood</li>
             <li>✅ Think: "60% chance of rain today"</li>
         </ul>
