@@ -9,7 +9,7 @@ from streamlit_autorefresh import st_autorefresh
 # =========================
 # CONFIGURATION
 # =========================
-API_URL = "http://127.0.0.1:8000/predict/now"
+API_URL = "https://astropredict-api.onrender.com/predict/now"
 REFRESH_INTERVAL_MS = 10000  # 10 seconds
 
 st.set_page_config(
