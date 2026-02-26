@@ -5,6 +5,8 @@ numpy
 pandas
 requests
 joblib
-streamlit
-streamlit-autorefresh
-plotly
+streamlit==1.43.0
+streamlit-autorefresh==1.0.1
+plotly==5.18.0
+requests
+protobuf==3.20.3
